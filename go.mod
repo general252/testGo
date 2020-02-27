@@ -1,4 +1,4 @@
-module github.com/general252
+module github.com/general252/testGo
 
 go 1.14
 
