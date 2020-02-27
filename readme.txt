@@ -1,5 +1,5 @@
 
-1. go mod init mydemo
+1. go mod init github.com/general252/testGo
 2. go build
 
 
@@ -39,7 +39,7 @@ package main
 
 import (
 	"github.com/astaxie/beego/logs"
-	"mydemo/pk1/pk2"
+	"github.com/general252/testGo/pk1/pk2"
 )
 
 func main() {
