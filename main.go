@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/astaxie/beego/logs"
-	"mydemo/pk1/pk2"
+	"github.com/general252/pk1/pk2"
 )
 
 func main() {

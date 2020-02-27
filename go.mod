@@ -1,4 +1,4 @@
-module mydemo
+module github.com/general252
 
 go 1.14
 
