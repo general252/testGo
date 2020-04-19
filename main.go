@@ -13,7 +13,7 @@ func main() {
 	mypkt.MySum()
 	
 	for i:=0; i < 10; i ++ {
-		fmt.Printf("v1.3 time %v\n", time.Now().Unix())
+		fmt.Printf("master time %v\n", time.Now().Unix())
 		time.Sleep(time.Second)
 	}
 	logs.GetBeeLogger().Info("hello")
